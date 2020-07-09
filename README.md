@@ -13,7 +13,7 @@ This guide for now is Clover based, it will be updated to OpenCore when it will 
 - NVME and Sata hdd
 
 #### What works:
-- [x] Nvidia GPU.
+- [x] Intel GPU.
 - [x] 144hz-display.
 - [x] Keyboard + Trackpad.
 - [x] Ports: HDMI, USB3/2, USB C.
